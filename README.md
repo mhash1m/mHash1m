@@ -3,11 +3,11 @@
 
 <br />
 
-- 🔭 I’m currently a Mentee in Google Summer of Code.
-- 🌱 I’m currently learning Multi-Output Models.
-- 👯 I’m looking to collaborate on anything related to Data Science and/or Machine Learning.
-- 💼 I'm currently working on Computer Vision projects apart from GSoC.
-- 💼 I’m pursuing a Bachelor's degree in Computer Science but I'm mostly self-taught.
+- 🔭 Mentee in Google Summer of Code 2021.
+- 💼 I'm currently working on Computer Vision projects.
+- 💼 Almost a Computer Science graduate (Jan 22) but I'm mostly self-taught.
+- 🌱 Learning more about ML everyday.
+- 👯 Looking to collaborate on anything related to Data Science and/or Machine Learning.
 - 💬 Ask me about anything via my socials!
 
 <br />

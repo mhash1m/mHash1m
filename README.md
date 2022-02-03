@@ -5,9 +5,9 @@
 
 - 🔭 Mentee in Google Summer of Code 2021.
 - 💼 Contributor at intel/dffml.
-- 💼 Almost a Computer Science graduate (Jan 22) but I'm mostly self-taught.
+- 💼 Computer Science graduate (Jan 22) but I'm mostly self-taught.
 - 🌱 Learning more about ML everyday.
-- 👯 Looking to collaborate on anything related to Data Science and/or Machine Learning.
+- 👯 Looking to collaborate on anything related to Machine Learning / Computer Vision.
 - 💬 Ask me about anything via my socials!
 
 <br />

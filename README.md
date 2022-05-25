@@ -3,8 +3,10 @@
 
 <br />
 
+- 💼 ML Engineer at a Stealth Startup.
+- 🔭 Mentor at Google Summer of Code 2022.
 - 🔭 Mentee in Google Summer of Code 2021.
-- 💼 Contributor at intel/dffml.
+- 🔭 Contributor at intel/dffml.
 - 💼 Computer Science graduate (Jan 22) but I'm mostly self-taught.
 - 🌱 Learning more about ML everyday.
 - 👯 Looking to collaborate on anything related to Machine Learning / Computer Vision.

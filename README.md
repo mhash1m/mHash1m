@@ -30,9 +30,6 @@
 <br />
 <br />
 
-## I'm Open to Work
-<img align="centre" alt="GIF" src="https://github.com/mHash1m/sign-language-detection/blob/main/output.gif" />
-
 ### Remember to Enjoy Coding!
 
 <br />

@@ -3,7 +3,7 @@
 
 <br />
 
-- 💼 ML Engineer at a Sigma Square.
+- 💼 SWE(BE/ML) at Emumba.
 - 🔭 Mentor at Google Summer of Code 2022.
 - 🔭 Mentee in Google Summer of Code 2021.
 - 🔭 Contributor at intel/dffml.

@@ -34,4 +34,4 @@
 
 <br />
 
-⭐️ From [mHash1m](https://github.com/mHash1m)
+⭐️ From [mhash1m](https://github.com/mhash1m)

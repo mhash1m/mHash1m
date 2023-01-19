@@ -20,12 +20,6 @@
 <a href="mailto:hashimchaudry23@gmail.com">
   <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/Hashim__AI">
-  <img align="left" alt="Hashim's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.kaggle.com/hashimchaudry">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
 
 <br />
 <br />

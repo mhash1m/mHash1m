@@ -9,7 +9,7 @@
 - 🔭 Contributor at intel/dffml.
 - 💼 Computer Science graduate (Jan 22) but I'm mostly self-taught.
 - 🌱 Learning more about ML everyday.
-- 👯 Looking to collaborate on anything related to Machine Learning / Computer Vision.
+- 👯 Looking to collaborate on anything related to Machine Learning / MLOps.
 - 💬 Ask me about anything via my socials!
 
 <br />
